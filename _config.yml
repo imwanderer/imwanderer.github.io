@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wonderer
+title: wanderer
 email: 
-description: This channel is about all the places I wonder around in the world, specially Melbourne. Channel mostly contains videos of walks and drives of places/parks/gardens/national parks/cities. Subscribe to see and experience amazing places around the world.
+description: This channel is about all the places I wander around in the world, specially Melbourne. Channel mostly contains videos of walks and drives of places/parks/gardens/national parks/cities. Subscribe to see and experience amazing places around the world.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://wonderer.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-youtube_displayname:  wonderer
+url: "http://imwanderer.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+youtube_displayname:  wanderer
 youtube_channelid:  UCPpvyDJPt4xe4hDcL6Ct00g
 
 # Build settings
